@@ -20,5 +20,4 @@ renderForm post = formFor post [hsx|
     {(textField #title)}
     {(textareaField #body)}
     {submitButton}
-
 |]
