@@ -6,7 +6,7 @@ This is a [IHP](https://ihp.digitallyinduced.com/) template configured for ephem
 
 Click the button below to start a new development environment:
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/gitpod-io/template-ihp)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/CSchank/IHP-blog-example)
 
 ## Get Started With Your Own Project
 
